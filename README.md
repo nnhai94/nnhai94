@@ -12,10 +12,10 @@
 
 <h3 align="center">Languages & Technologies</h3>
 
-<p align="center"><img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="200" height="150"/>          <img 
+<p align="center"><img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="200" height="100"/>          <img 
 src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="react" width="150" height="150"/>          <img 
-src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala" width="150" height="150"/></p>
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100" height="100"/>        <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="react" width="100" height="100"/>          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="150" height="150"/>          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="100" height="100"/>          <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="100" height="100"/> </p>
+src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="scala" width="50" height="100"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100" height="100"/>        <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="react" width="100" height="100"/>          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="100" height="100"/>          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="100" height="100"/>          <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="130" height="100"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nnhai94&show_icons=true" alt="nnhai94" /> </p>
 
 <p align="center">
